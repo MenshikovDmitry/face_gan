@@ -1,6 +1,6 @@
 # FACE GAN
 Generative Adversarial nework to generate faces from noice. Python, Tensorflow, Keras.
-Orignal dataset: [Olivetti Faces](https://www.kaggle.com/sivarajh/olivetti-faces)  
+Orignal dataset: [Olivetti Faces](https://www.kaggle.com/sivarajh/olivetti-faces) was resized to 28*28.
 Trained in Google Collab
 
 # Original DataSet
