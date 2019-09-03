@@ -6,5 +6,5 @@ Trained in Google Collab
 # Original DataSet
 ![alt text](olivetti_faces.png?raw=true "Pic")
 
-# Progress during the 1000 epochs of training
+# Progress during the 10000 epochs of training
 ![alt text](Olivetti_faces.gif?raw=true "Pic")
